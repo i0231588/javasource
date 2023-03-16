@@ -4,7 +4,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 public class SimpleDateFormatEx1{
 public static void main(String[] args) {
-		//시스템 날짜와 시간 가져오기
+		
 		Date date = new Date();
 		System.out.println(date);
 		//날짜와 시간을 특정 형식에 맞춰 출력 가능하게 하는 클래스
